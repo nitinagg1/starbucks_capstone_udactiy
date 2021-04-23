@@ -37,6 +37,18 @@ Here is the schema and explanation of each variable in the files:
 -   time (int) - time in hours since start of test. The data begins at time t=0
 -   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+## Installations
+This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
+
+- pandas
+- numpy
+- math
+- json
+- matplotlib
+- seaborn
+- sklearn
+
+
 ## Files
 The following files attached to this GitHub's repository include the following:
 -   **Starbucks_Capstone_notebook.ipynb**: This is the Jupyter Notebook in which I performed all my work.
